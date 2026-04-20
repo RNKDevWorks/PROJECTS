@@ -17,7 +17,7 @@ SQL – for sql repo
 ### Project Structure
 
 ```
-VIRTUSA PROJECTS
+VIRTUSA TRAINING PROJECTS
 │ 
 ├── Python/
 │   ├── Project1
