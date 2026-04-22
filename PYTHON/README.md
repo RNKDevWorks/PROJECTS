@@ -26,9 +26,9 @@
 ### FOLDER STRUCTURE
 ```
 PYTHON
-├── expense_tracker.py
-├── expenses.csv
-├── OUTPUTS
+├── expense_tracker.py # main file
+├── expenses.csv # CSV file to store the data
+├── OUTPUTS # contains project output images
 └── README.md
 ```
 ---
