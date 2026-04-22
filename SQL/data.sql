@@ -1,23 +1,16 @@
 USE digital_library_db;
 
-INSERT INTO Categories VALUES
-(1, 'Fiction'),
-(2, 'Science'),
-(3, 'History'),
-(4, 'Technology'),
-(5, 'Literature');
-
 INSERT INTO Books VALUES
-(1, 'Java Basics', 4),
-(2, 'Python Programming', 4),
-(3, 'World History', 3),
-(4, 'Modern Fiction', 1),
-(5, 'Database Systems', 4),
-(6, 'Indian Heritage', 3),
-(7, 'Story Collection', 1),
-(8, 'Physics Fundamentals', 2),
-(9, 'Chemistry Concepts', 2),
-(10, 'English Literature', 5);
+(1, 'Java Basics', 'Science'),
+(2, 'Python Programming', 'Science'),
+(3, 'World History', 'History'),
+(4, 'Modern Fiction', 'Fiction'),
+(5, 'Database Systems', 'Science'),
+(6, 'Indian Heritage', 'History'),
+(7, 'Story Collection', 'Fiction'),
+(8, 'Physics Fundamentals', 'Science'),
+(9, 'Chemistry Concepts', 'Science'),
+(10, 'English Literature', 'Literature');
 
 INSERT INTO Students VALUES
 (1, 'Nanda', '2021-06-15'),
@@ -42,10 +35,3 @@ INSERT INTO IssuedBooks VALUES
 (8, 6, 8, '2021-01-01', '2021-01-10'),
 (9, 7, 9, '2025-03-20', NULL),
 (10, 8, 10, '2025-02-25', '2025-03-05');
-
-INSERT INTO Fines VALUES
-(1, 1, 50.00),
-(2, 3, 75.00),
-(3, 4, 30.00),
-(4, 6, 60.00),
-(5, 9, 40.00);
