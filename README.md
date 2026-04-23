@@ -46,11 +46,13 @@ VIRTUSA TRAINING PROJECTS
 │   │        ├── Customer.java
 │   │        ├── user.class
 │   │        └── user.java
+│   ├── Ouputs/  # contains ouput images
 │   └── README.md
 ├── SQL/
 │   ├── data.sql
 │   ├── queries.sql
 │   ├── queries.sql
+│   ├── Ouputs/  # contains ouput images
 │   └── README.md
 └── README.md
 ```
