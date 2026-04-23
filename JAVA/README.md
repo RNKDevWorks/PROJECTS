@@ -1,4 +1,4 @@
-### SHOPPING MANAGEMENT SYSTEM
+<h1 align="center">SHOPPING MANAGEMENT SYSTEM</h1>
 A console-based Shopping Management System built using Core Java that simulates real-world shopping operations with Admin and Customer roles.
 
 --- 
