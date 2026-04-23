@@ -41,7 +41,7 @@ A local college library needs a system to:
 
 ```
 SQL/
-├──  OUTPUTS/
+├── OUTPUTS/
 ├── data.sql
 ├── queries.sql
 ├── queries.sql
