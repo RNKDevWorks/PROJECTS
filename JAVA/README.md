@@ -53,5 +53,6 @@ ShoppingManagementSystem/
 │   ├── Customer.java
 │   ├── User.class
 │   └── User.java
+├── Ouputs/  # contains ouput images
 └── README.md
 ```
