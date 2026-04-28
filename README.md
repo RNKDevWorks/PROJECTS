@@ -36,7 +36,7 @@ VIRTUSA TRAINING PROJECTS
 │   │    │    ├── CartItem.class
 │   │    │    ├── Product.class
 │   │    │    └──Product.java
-│   │    ├──service/
+│   │    ├── service/
 │   │    │    ├── store.class
 │   │    │    └── store.java
 │   │    └── user/
@@ -47,6 +47,10 @@ VIRTUSA TRAINING PROJECTS
 │   │        ├── user.class
 │   │        └── user.java
 │   ├── Ouputs/  # contains ouput images
+│   └── README.md
+├── JAVA-2/
+│   ├── PasswordValidator.class
+│   ├── PasswordValidator.java
 │   └── README.md
 ├── SQL/
 │   ├── data.sql
